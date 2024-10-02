@@ -92,7 +92,9 @@ execution:
     gpu:
       requested: 0
     sharedMemoryMB: 0
-  secrets: []
+  secrets:
+  - variable: GROQ
+    description: GROQ API key
   mounts:
   - type: project
     target: /project/
