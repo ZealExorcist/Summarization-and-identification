@@ -71,7 +71,7 @@ Output: "The image features a very angry-looking lizard, possibly a cactus or a 
 
 ## Video Demo
 
-[Watch the Video Demo](https://youtube.com/link_to_demo) <!-- Link to your demo video -->
+[Watch the Video Demo](https://youtu.be/r9FTwqqWsW4) <!-- Link to your demo video -->
 
 ## Contributing
 
