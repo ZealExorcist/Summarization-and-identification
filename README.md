@@ -4,7 +4,7 @@
 
 This tool leverages state-of-the-art AI to provide a concise summary of any uploaded image and assess its safety by detecting inappropriate content. Built using NVIDIA AI Workbench, the project runs seamlessly on GPU systems for real-time performance, offering efficient and fast results for content moderation and media management.
 
-![Image Summarization in Action](path_to_image_summary_demo) <!-- Add a screenshot showing the image summarizer interface -->
+![Image Summarization in Action](images/basic.png) <!-- Add a screenshot showing the image summarizer interface -->
 
 ## Features
 
@@ -20,7 +20,7 @@ This tool leverages state-of-the-art AI to provide a concise summary of any uplo
 - **Flask/Streamlit**: Web interface for easy user interaction.
 - **Docker**: Containerization for deployment.
 
-![Image Safety Check](path_to_safety_check_demo) <!-- Add a screenshot demonstrating the safety check feature -->
+![Image Safety Check](images/safety.png) <!-- Add a screenshot demonstrating the safety check feature -->
 
 ## Setup
 
@@ -59,15 +59,15 @@ The project is designed to work with **NVIDIA AI Workbench** for GPU acceleratio
 2. Get a natural language summary of the image.
 3. View a safety report, including flags for inappropriate content.
 
-![Project Workflow](path_to_workflow_diagram) <!-- Add a diagram or flowchart of how the tool works -->
-
 ## Example Results
 
 ### Image Summarization Example
 ```text
-Input: An image of a busy street in New York.
-Output: "A crowded street with pedestrians and cars in New York City, skyscrapers visible in the background."
+Input: A multicolored chameleon.
+Output: "The image features a very angry-looking lizard, possibly a cactus or a reptile pet, resting in a pink flower. The colorful pet appears to be sitting on a pedestal surrounded by a beautiful floral arrangement. The lizard could be a gecko or a chameleon, with muted colored stripes on its back and front, giving it a unique and striking appearance. Overall, the scene captures a captivating moment where the angry, colorful pet is nestled next to the vibrant flower."
 ```
+
+![Example Picture](images/used.png) 
 
 ## Video Demo
 
