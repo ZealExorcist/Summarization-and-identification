@@ -83,5 +83,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Social Media
 
-- **LinkedIn**: [Your Name](https://linkedin.com/in/rohan-nayakanti)
+- **LinkedIn**: [Rohan Nayakanti](https://linkedin.com/in/rohan-nayakanti)
 - **Discord**: Bumpyrohan#8800
